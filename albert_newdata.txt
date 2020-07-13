@@ -1,0 +1,36 @@
+
+
+# Sources: TechPowerUp and SPECINT
+
+
+Processor                       year      cores  frequency  specint  transistors  watts
+Xeon E7-8890 v3                 2015.41   36     2500       79500    1400000      165
+Xeon W-3175X                    2018.95   56     4300       -        8000000      255
+Xeon Platinum 8280M             2018.93   56     4000       173000   8000000      205
+EPYC 7371                       2018.86   32     3800       108000   4800000      170
+EPYC 7261                       2018.04   16     2900       49800    4800000      170
+AMD Ryzen Threadripper 3980X    2019.86   96     4700       -        3800000      280
+EPYC 7H12                       2019.79   128    3300       393000   3800000      280
+Intel Core i9-9900K             2019.39   16     3100       55300    -            65
+Intel Xeon Platinum 9242        2019.32   96     3800       279000   8000000      350
+Intel Xeon Platinum 9282        2019.32   112    3800       338000   8000000      400
+Intel Core i9-10900K            2020.328  20     3700       -        -            125
+AMD EPYC 7F72                   2020.28   48     3700       210000   3800000      240
+AMD Ryzen Threadripper 3990X    2020.1    128    4300       -        3800000      280
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
